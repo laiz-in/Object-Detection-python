@@ -7,7 +7,7 @@ This simple python code will execute locally in your system
 
 > draws a border around your face
 
-> HAAR_CASCADE classifier is the algorithms we have used here
+> HAAR_CASCADE classifier is the algorithm we have used here
 
      To use haar cascade , we need to download the xml files to your project folder, 
      there are different fiels available for different type of objects
